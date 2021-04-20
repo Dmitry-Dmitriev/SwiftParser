@@ -1,7 +1,7 @@
 import XCTest
-@testable import SwitParser
+@testable import SwiftParser
 
-final class SwitParserTests: XCTestCase {
+final class SwiftParserTests: XCTestCase {
     private let parser = JSONParser<JSONArray>()
     private let array: [Any] = [
         ["test1": 1000,

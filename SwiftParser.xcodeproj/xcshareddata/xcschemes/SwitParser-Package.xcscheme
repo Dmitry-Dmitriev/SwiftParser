@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "SwitParser::SwitParser"
                BuildableName = "SwitParser.framework"
-               BlueprintName = "SwitParser"
-               ReferencedContainer = "container:SwitParser.xcodeproj">
+               BlueprintName = "SwiftParser"
+               ReferencedContainer = "container:SwiftParser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "SwitParser::SwitParserTests"
-               BuildableName = "SwitParserTests.xctest"
-               BlueprintName = "SwitParserTests"
-               ReferencedContainer = "container:SwitParser.xcodeproj">
+               BuildableName = "SwiftParserTests.xctest"
+               BlueprintName = "SwiftParserTests"
+               ReferencedContainer = "container:SwiftParser.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
